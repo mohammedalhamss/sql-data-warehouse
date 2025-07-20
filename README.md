@@ -1,2 +1,2 @@
-# sql-data-warehouse
-modern data warehouse
+# Data Warehouse and Analytics Project
+
